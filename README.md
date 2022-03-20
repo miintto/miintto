@@ -1,27 +1,33 @@
-### Hi there 👋
+<div align="center">
 
-[![miintto's github stats](https://github-readme-stats.vercel.app/api?username=miintto&show_icons=true)](https://github.com/miintto)
+  <!-------------------- Header -------------------->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFDE4,85:005AA7&height=150&section=header&text=I%20am%20Server%20Developer%20박민재!&fontSize=30&fontColor=666666&fontAlignY=85&desc=Hi~👨🏻‍💻&descAlign=30&descAlignY=40&animation=fadeIn)
 
+  <!-------------------- Profile Badges -------------------->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiintto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Blog](https://img.shields.io/badge/Tech%20Blog-0EB885?style=flat&logo=Velog&logoColor=white)](https://velog.io/@miintto)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:one.miintto.log@gmail.com)
+
+  <!-------------------- Stats -------------------->
+  [![Stats](https://github-readme-stats.vercel.app/api?username=miintto&title_color=005aa7&text_color=666666&icon_color=B7BDA2&hide_title=true&show_icons=true)](https://github.com/miintto)
+
+  <!-------------------- Most Used Languages -------------------->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miintto&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!-------------------- Skills Badges -------------------->
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-0B4b33?style=flat-square&logo=Django&logoColor=white)
+  <br>
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-02758F?style=flat-square&logo=MySQL&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-02BFB4?style=flat-square&logo=Elasticsearch&logoColor=white)
+  <br>
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+</div>
+  
 ### I'm interested in
-- MVC 디자인 패턴에 기반한 web application 개발 (**Django-REST-framework**)
-- Query 튜닝 및 최적화 (**Postgresql** / **Mysql** / **Oracle**)
-- **Apache-Airflow**를 이용하여 자동화 작업, 배치 개발
-- Elastic stack으로 인프라 모니터링 시스템 구축 (**elasticsearch** / **logstash** / **kibana**)
-- **Python** 라이브러리 **numpy**, **pandas**를 활용한 데이터 전처리
-
-<img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754822-3911b680-5050-11eb-8364-56ccbaa93d22.png" width="50"/> <img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754880-4c248680-5050-11eb-94ae-ce49c58ddb5d.png" width="50"/> <img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754888-5050a400-5050-11eb-83b3-efb52635ab9c.png" width="50"/> <img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754909-5777b200-5050-11eb-8ce1-27592992cba3.png" width="50"/> <img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754918-5a72a280-5050-11eb-99c6-16d2ac112e41.png" width="50"/> <img alt="typescript" src="https://user-images.githubusercontent.com/37063580/103754923-5c3c6600-5050-11eb-84fd-7718fb09020b.png" width="50"/> 
-
-<!--
-**miintto/miintto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MVC 디자인 패턴에 기반한 Web Application 개발 (**Django**)
+- 가독성 높고 유지 보수하기 편한 클린 코드 작성
+- Query 튜닝 및 최적화 (**PostgreSQL** / **MySQL**)
+- Elastic stack으로 인프라 모니터링 시스템 구축 (**Elasticsearch** / **Logstash** / **Kibana**)
