@@ -15,14 +15,17 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miintto&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-------------------- Skills Badges -------------------->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-0B4b33?style=flat-square&logo=Django&logoColor=white)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+  [![Django](https://img.shields.io/badge/Django-0B4b33?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com)
   <br>
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-02758F?style=flat-square&logo=MySQL&logoColor=white)
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-02BFB4?style=flat-square&logo=Elasticsearch&logoColor=white)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
+  [![MySQL](https://img.shields.io/badge/MySQL-02758F?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com)
+  [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-f5c747?style=flat-square&logo=Elasticsearch&logoColor=white)](https://www.elastic.co/kr/elasticsearch/)
   <br>
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+  [![Docker](https://img.shields.io/badge/Celery-a9cc53?style=flat-square&logo=Celery&logoColor=white)](https://docs.celeryq.dev/en/stable/)
+  [![Docker](https://img.shields.io/badge/Apache%20Airflow-0eb6ff?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
+  <br>
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
 
 </div>
   
