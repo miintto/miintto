@@ -4,8 +4,8 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFDE4,85:005AA7&height=150&section=header&text=I%20am%20Server%20Developer%20박민재!&fontSize=30&fontColor=666666&fontAlignY=85&desc=Hi~👨🏻‍💻&descAlign=30&descAlignY=40&animation=fadeIn)
 
   <!-------------------- Profile Badges -------------------->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiintto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![Blog](https://img.shields.io/badge/Tech%20Blog-0EB885?style=flat&logo=Velog&logoColor=white)](https://velog.io/@miintto)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiintto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://blog.miintto.com)
+  [![Blog](https://img.shields.io/badge/Tech%20Blog-14A0C4?style=flat&logo=Pelican&logoColor=white)](https://velog.io/@miintto)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:one.miintto.log@gmail.com)
 
   <!-------------------- Stats -------------------->
@@ -17,6 +17,7 @@
   <!-------------------- Skills Badges -------------------->
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
   [![Django](https://img.shields.io/badge/Django-0B4b33?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com)
+  [![Fastapi](https://img.shields.io/badge/Fastapi-039385?style=flat-square&logo=Fastapi&logoColor=white)](https://fastapi.tiangolo.com)
   <br>
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
   [![MySQL](https://img.shields.io/badge/MySQL-02758F?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com)
@@ -30,7 +31,7 @@
 </div>
   
 ### I'm interested in
-- MVC 디자인 패턴에 기반한 Web Application 개발 (**Django**)
+- MVC 디자인 패턴에 기반한 Web Application 개발 (**Django**, **FastAPI**)
 - 가독성 높고 유지 보수하기 편한 클린 코드 작성
 - Query 튜닝 및 최적화 (**PostgreSQL** / **MySQL**)
 - Elastic stack으로 인프라 모니터링 시스템 구축 (**Elasticsearch** / **Logstash** / **Kibana**)
