@@ -9,10 +9,10 @@
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:one.miintto.log@gmail.com)
 
   <!-------------------- Stats -------------------->
-  [![Stats](https://github-readme-stats.vercel.app/api?username=miintto&title_color=005aa7&text_color=666666&icon_color=B7BDA2&hide_title=true&show_icons=true)](https://github.com/miintto)
+  [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miintto&title_color=005aa7&text_color=666666&icon_color=B7BDA2&hide_title=true&show_icons=true)](https://github.com/miintto)
 
   <!-------------------- Most Used Languages -------------------->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miintto&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miintto&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-------------------- Skills Badges -------------------->
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
