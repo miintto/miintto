@@ -5,7 +5,7 @@
 
   <!-------------------- Profile Badges -------------------->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiintto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![Blog](https://img.shields.io/badge/Tech%20Blog-14A0C4?style=flat&logo=Pelican&logoColor=white)](https://blog.miintto.com)
+  [![Blog](https://img.shields.io/badge/Tech%20Blog-3E3E3E?style=flat&logo=Jekyll&logoColor=white)](https://miintto.github.io)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:one.miintto.log@gmail.com)
 
   <!-------------------- Stats -------------------->
