@@ -4,7 +4,6 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFDE4,85:005AA7&height=150&section=header&text=I%20am%20Server%20Developer%20박민재!&fontSize=30&fontColor=666666&fontAlignY=85&desc=Hi~👨🏻‍💻&descAlign=30&descAlignY=40&animation=fadeIn)
 
   <!-------------------- Profile Badges -------------------->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiintto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Blog](https://img.shields.io/badge/Tech%20Blog-3E3E3E?style=flat&logo=Jekyll&logoColor=white)](https://miintto.github.io)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:one.miintto.log@gmail.com)
 
@@ -12,7 +11,7 @@
   [![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=miintto&title_color=005aa7&text_color=666666&icon_color=B7BDA2&hide_title=true&show_icons=true)](https://github.com/miintto)
 
   <!-------------------- Most Used Languages -------------------->
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miintto&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miintto&langs_count=8&layout=compact&card_width=400&hide_border=true&hide_title=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-------------------- Skills Badges -------------------->
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
